@@ -14,12 +14,13 @@
                         <div class="progress mb-2 bg-white">
                             <div class="progress-bar progress-animated bg-white" style="width: 80%"></div>
                         </div>
-                        <small>80% Increase in 20 Days</small>
+                        <small>60% Increase in 20 Days</small>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
     <div class="col-xl-3 col-xxl-3 col-sm-6">
         <div class="widget-stat card bg-warning">
             <div class="card-body">
